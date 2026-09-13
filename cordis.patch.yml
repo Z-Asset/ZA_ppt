@@ -5,4 +5,4 @@
 # Activated by: dsh plugin --profile <name> add @zr/za-ppt
 - insert:
     - id: za-ppt
-      name: '@zr/za-ppt'
+      name: '@zasset/za-ppt'

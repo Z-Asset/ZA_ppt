@@ -19,7 +19,7 @@ whenToUse: 演讲制作、Beamer/Quarto 幻灯片、narrative arc 设计、视�
 
 ## 工作流
 
-1. 读论文，提取：研究问题、识别/估计策略、主结果、次要结果、稳健性、关键图表
+1. 读论文（`paper/main.tex` 或指定路径），读 `references/domain/domain-profile.md` 校准领域（资产定价 + ML/DL 的图表演示惯例），提取：研究问题、识别/估计策略、主结果、次要结果、稳健性、关键图表
 2. 派发 Storyteller 设计 narrative arc：
    - 一页一 idea；图优先、表放 backup（备 Q&A）
    - 张力递进：动机 → 问题 → 方法 → 发现 → 意义

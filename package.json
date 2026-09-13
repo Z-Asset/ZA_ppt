@@ -1,5 +1,5 @@
 {
-  "name": "@zr/za-ppt",
+  "name": "@zasset/za-ppt",
   "version": "0.1.0",
   "description": "Z Research PPT stage — presentation generation (Beamer/Quarto) from the paper. Ships one skill.",
   "type": "module",
